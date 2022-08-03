@@ -22,12 +22,12 @@ Following steps were done to complete the given task:
 
 - Deployment and connectivity with Ganache using MASK
   
-![image1](Starter_Code/Images/1_deployment.PNG)
+![image1](Images/1_deployment.PNG)
 
 
 - Deployment of deployer and then contract. All fields avaiable. 
   
-![image1](Starter_Code/Images/2_contract_functions.PNG)
+![image1](Images/2_contract_functions.PNG)
 
 
-![image1](Starter_Code/Images/3_mintable_functions.PNG)
+![image1](Images/3_mintable_functions.PNG)
